@@ -2,7 +2,7 @@
 
 **CBS Protocol can be divided into two subprotocols**
 
-### CBS Protocol Vanilla
+### CBS Protocol
 
 * Supply Interest: 0%
 * Borrow Interest: 0%
