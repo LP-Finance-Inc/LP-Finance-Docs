@@ -10,4 +10,5 @@
   * [Overflow Reward Model](lp-finance-protocol/overflow-reward-model.md)
   * [Cross Chain CBS Pools](lp-finance-protocol/cross-chain-cbs-pools.md)
   * [Division of CBS Protocol](lp-finance-protocol/division-of-cbs-protocol.md)
+  * [LP Finance DAO (LPFi)](lp-finance-protocol/lp-finance-dao-lpfi.md)
   * [Join our Community](lp-finance-protocol/join-our-community.md)
