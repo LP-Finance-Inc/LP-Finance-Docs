@@ -5,6 +5,6 @@
   * Governance NFT
   * Collateralized Borrowing
   * Fee-Earning Staking
-* **Mint**: [H5cDniBsyfoddtHrfz6gCSw7R23ZwRuzozD4Fek9WUsS](https://solscan.io/token/H5cDniBsyfoddtHrfz6gCSw7R23ZwRuzozD4Fek9WUsS)
+* **Mint**: [4CHXd5uSMb9qrLfQwvyHzDMiKmNKDP8Np23dAQWTKNEy](https://solscan.io/token/4CHXd5uSMb9qrLfQwvyHzDMiKmNKDP8Np23dAQWTKNEy)
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-20 at 11.23.33 PM.png>)
